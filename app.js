@@ -29,7 +29,7 @@ renderer.set
     const eatrhmaterial = new THREE.MeshPhongMaterial({
         roughness : 1,
         metalness:0,
-        map: THREE.ImageUtils.loadTexture('assets/images/map.png'),
+        map: THREE.ImageUtils.loadTexture('assets/images/world-map.gif'),
         bumpMap: THREE.ImageUtils.loadTexture('assets/images/earthbump.jpg'),
         bumpScale: 0.3,
         

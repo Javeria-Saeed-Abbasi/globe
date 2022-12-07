@@ -92,8 +92,9 @@ section {
   text-transform: uppercase;
   /* transform: rotateY(calc(var(--i) * calc(360deg / 20))) translateZ(200px); */
   /* transform: rotateY(calc(var(--i) * calc(360deg / 20))) translateZ(300px); */
-  transform: rotateY(calc(var(--i) * calc(280deg / 16))) translateZ(274px);
+  /* transform: rotateY(calc(var(--i) * calc(280deg / 16))) translateZ(274px); */
   /* transform: rotateY(calc(var(--i) * calc(360deg / 21))) translateZ(250px); */
+  transform: rotateY(calc(var(--i) * calc(360deg / 25))) translateZ(278px);
 
         color: #70869d;
         letter-spacing: .15em;
